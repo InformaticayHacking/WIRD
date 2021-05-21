@@ -1,0 +1,182 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+body
+{
+	background-image: url(imagenes/bg.jpg);
+	margin: auto;
+}
+select
+{
+	display: none;
+}
+label
+{
+	display: none;
+}
+p
+{
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+}
+.funcion {
+	text-align: center;
+	margin: 0 auto 0 auto;
+	font-family: sans-serif;
+
+}
+.mfuncion{
+	font-family: "Consolas", sans-serif;
+	width: 120px;
+	height: 30px;
+}
+.instrucciones {
+	font-size: 14px;
+	background-color: #232323ba;
+	border-radius: 20px;
+}
+.imagen {
+	max-width: 400px;
+	display: flex;
+	margin: 0 auto 0 auto;
+}
+.subt {
+	color: #f1f1f1;
+	font-family: "Roboto", sans-serif;
+	text-shadow: 0 0 19px black;
+}
+h5
+{
+	font-family: "Roboto";
+	font-size: 10px;
+	color: #7d7d7d;
+}
+
+input
+{
+	border: 0px;
+	font-size: 15px;
+	color: black;
+	text-align: center;
+	box-shadow: 0px 6px 10px 4px black;
+	border-radius: 10px;
+	width: 250px;
+	height: 40px;
+}
+.icono { 
+	max-width: 30px; 
+	display: flex;
+	margin-left: 8px;
+	margin-top: 10px;
+ }
+ .iconoDos {
+ 	max-width: 150px; 
+ 	height: auto;
+	display: flex;
+	margin: 0 auto 0 auto;
+ }
+.boton1 {
+	display: flex;
+	margin: 0 auto 0 auto;
+}
+.boton2 {
+	display: flex;
+	margin: 0 auto 0 auto;
+}
+.boton3 {
+	width: 100px;
+	height: 40px;
+	border-radius: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    background-color: #FFC107;
+    box-shadow: 0px 8px 18px 4px black;
+}
+.tres {
+	width: 100px;
+	height: 40px;
+}
+button
+{
+	border: 0px;
+	width: 52px;
+	height: 52px;
+	border-radius: 40px;
+	font-family: sans-serif;
+	font-size: 12px;
+	background-color: #FFC107;
+	box-shadow: 0px 8px 18px 4px black;
+}
+.enviar {
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+.estado{
+	color: #ff9800;
+	text-shadow: 0 0 8px black;
+}
+.aviso{
+	max-width: 100px;
+	display: flex;
+	margin: 0 auto 0 auto;
+}
+video
+{
+	display: none;
+}
+h2
+{
+
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+
+}
+.inf {
+	color: white;
+	font-family: sans-serif;
+	font-size: 17px;
+}
+footer
+{	
+	display: block;
+	padding-top: 25px;
+	background-color: #090909;
+	height: 130px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: "Consolas", sans-serif;
+	font-size: 15px;
+	color: #9E9E9E;
+	font-size: 17px;
+}
+.contacto {
+	color: white;
+	text-decoration: none;
+}
+.faq {
+	color: white;
+	text-decoration: none;
+}
+.acerca {
+	color: white;
+	text-decoration: none;
+}
+.piedepagina {
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.fin {
+	color: #424242;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+}
+.copyright {
+	color: #424242;
+	font-family: "Roboto", sans-serif;
+	font-size: 10px;
+}
+.social img {
+	max-width: 30px;
+}
