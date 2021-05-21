@@ -1,0 +1,250 @@
+[Sun Apr  5 12:22:10 2020] PHP 7.4.4 Development Server (http://localhost:4647) started
+[Sun Apr  5 12:22:51 2020] 127.0.0.1:39052 Accepted
+[Sun Apr  5 12:22:52 2020] 127.0.0.1:39052 [200]: (null) /
+[Sun Apr  5 12:22:52 2020] 127.0.0.1:39052 Closing
+[Sun Apr  5 12:22:52 2020] 127.0.0.1:39053 Accepted
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39053 [200]: (null) /estilo.css
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39053 Closing
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39054 Accepted
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39055 Accepted
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39054 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39054 Closing
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39055 [200]: (null) /imagenes/enviar.png
+[Sun Apr  5 12:22:53 2020] 127.0.0.1:39055 Closing
+[Sun Apr  5 12:22:54 2020] 127.0.0.1:39056 Accepted
+[Sun Apr  5 12:22:54 2020] 127.0.0.1:39057 Accepted
+[Sun Apr  5 12:22:54 2020] 127.0.0.1:39058 Accepted
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39059 Accepted
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39056 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39056 Closing
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39057 [200]: (null) /imagenes/paypal.png
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39058 [200]: (null) /js/video.js
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39059 [200]: (null) /imagenes/loading.gif
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39057 Closing
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39058 Closing
+[Sun Apr  5 12:22:55 2020] 127.0.0.1:39059 Closing
+[Sun Apr  5 12:22:56 2020] 127.0.0.1:39060 Accepted
+[Sun Apr  5 12:22:56 2020] 127.0.0.1:39061 Accepted
+[Sun Apr  5 12:22:56 2020] 127.0.0.1:39062 Accepted
+[Sun Apr  5 12:22:56 2020] 127.0.0.1:39063 Accepted
+[Sun Apr  5 12:22:57 2020] 127.0.0.1:39064 Accepted
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39060 [200]: (null) /imagenes/visa.png
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39061 [200]: (null) /imagenes/american.png
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39062 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39063 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39060 Closing
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39061 Closing
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39062 Closing
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39063 Closing
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39064 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:23:00 2020] 127.0.0.1:39064 Closing
+[Sun Apr  5 12:23:05 2020] 127.0.0.1:39067 Accepted
+[Sun Apr  5 12:23:05 2020] 127.0.0.1:39067 [200]: (null) /favicon.png
+[Sun Apr  5 12:23:05 2020] 127.0.0.1:39067 Closing
+[Sun Apr  5 12:23:30 2020] 127.0.0.1:39069 Accepted
+[Sun Apr  5 12:23:33 2020] 127.0.0.1:39072 Accepted
+[Sun Apr  5 12:23:33 2020] 127.0.0.1:39072 [200]: (null) /cargar.html
+[Sun Apr  5 12:23:33 2020] 127.0.0.1:39072 Closing
+[Sun Apr  5 12:23:35 2020] 127.0.0.1:39073 Accepted
+[Sun Apr  5 12:23:35 2020] 127.0.0.1:39074 Accepted
+[Sun Apr  5 12:23:35 2020] 127.0.0.1:39075 Accepted
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39073 [200]: (null) /estilo.css
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39074 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39075 [200]: (null) /imagenes/loading.gif
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39073 Closing
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39074 Closing
+[Sun Apr  5 12:23:36 2020] 127.0.0.1:39075 Closing
+[Sun Apr  5 12:23:37 2020] 127.0.0.1:39078 Accepted
+[Sun Apr  5 12:23:37 2020] 127.0.0.1:39079 Accepted
+[Sun Apr  5 12:23:37 2020] 127.0.0.1:39080 Accepted
+[Sun Apr  5 12:23:37 2020] 127.0.0.1:39081 Accepted
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39078 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39079 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39078 Closing
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39079 Closing
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39080 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39080 Closing
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39081 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:23:39 2020] 127.0.0.1:39081 Closing
+[Sun Apr  5 12:23:41 2020] 127.0.0.1:39069 Invalid request (Unexpected EOF)
+[Sun Apr  5 12:23:41 2020] 127.0.0.1:39069 Closing
+[Sun Apr  5 12:23:50 2020] 127.0.0.1:39088 Accepted
+[Sun Apr  5 12:23:50 2020] 127.0.0.1:39088 [200]: (null) /resultado.html
+[Sun Apr  5 12:23:50 2020] 127.0.0.1:39088 Closing
+[Sun Apr  5 12:23:51 2020] 127.0.0.1:39089 Accepted
+[Sun Apr  5 12:23:51 2020] 127.0.0.1:39090 Accepted
+[Sun Apr  5 12:23:51 2020] 127.0.0.1:39091 Accepted
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39089 [200]: (null) /estilo.css
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39090 [200]: (null) /imagenes/capture-3254885221.jpg
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39091 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39089 Closing
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39090 Closing
+[Sun Apr  5 12:23:52 2020] 127.0.0.1:39091 Closing
+[Sun Apr  5 12:23:53 2020] 127.0.0.1:39092 Accepted
+[Sun Apr  5 12:23:53 2020] 127.0.0.1:39093 Accepted
+[Sun Apr  5 12:23:53 2020] 127.0.0.1:39094 Accepted
+[Sun Apr  5 12:23:53 2020] 127.0.0.1:39095 Accepted
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39092 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39092 Closing
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39096 Accepted
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39093 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39094 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39095 [200]: (null) /imagenes/visa.png
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39093 Closing
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39094 Closing
+[Sun Apr  5 12:23:54 2020] 127.0.0.1:39095 Closing
+[Sun Apr  5 12:23:55 2020] 127.0.0.1:39097 Accepted
+[Sun Apr  5 12:23:55 2020] 127.0.0.1:39096 [200]: (null) /imagenes/american.png
+[Sun Apr  5 12:23:55 2020] 127.0.0.1:39096 Closing
+[Sun Apr  5 12:23:56 2020] 127.0.0.1:39097 [200]: (null) /imagenes/paypal.png
+[Sun Apr  5 12:23:56 2020] 127.0.0.1:39097 Closing
+[Sun Apr  5 12:23:56 2020] 127.0.0.1:39098 Accepted
+[Sun Apr  5 12:23:56 2020] 127.0.0.1:39098 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:23:56 2020] 127.0.0.1:39098 Closing
+[Sun Apr  5 12:24:50 2020] 127.0.0.1:39107 Accepted
+[Sun Apr  5 12:24:51 2020] 127.0.0.1:39107 [200]: (null) /
+[Sun Apr  5 12:24:51 2020] 127.0.0.1:39107 Closing
+[Sun Apr  5 12:24:52 2020] 127.0.0.1:39108 Accepted
+[Sun Apr  5 12:24:52 2020] 127.0.0.1:39109 Accepted
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39110 Accepted
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39108 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39109 [200]: (null) /imagenes/enviar.png
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39108 Closing
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39109 Closing
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39110 [200]: (null) /estilo.css
+[Sun Apr  5 12:24:53 2020] 127.0.0.1:39110 Closing
+[Sun Apr  5 12:24:54 2020] 127.0.0.1:39111 Accepted
+[Sun Apr  5 12:24:54 2020] 127.0.0.1:39111 [200]: (null) /js/video.js
+[Sun Apr  5 12:24:54 2020] 127.0.0.1:39111 Closing
+[Sun Apr  5 12:24:55 2020] 127.0.0.1:39112 Accepted
+[Sun Apr  5 12:24:55 2020] 127.0.0.1:39113 Accepted
+[Sun Apr  5 12:24:55 2020] 127.0.0.1:39114 Accepted
+[Sun Apr  5 12:24:55 2020] 127.0.0.1:39115 Accepted
+[Sun Apr  5 12:24:55 2020] 127.0.0.1:39116 Accepted
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39112 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39113 [200]: (null) /imagenes/loading.gif
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39114 [200]: (null) /imagenes/visa.png
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39115 [200]: (null) /imagenes/american.png
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39116 [200]: (null) /imagenes/paypal.png
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39112 Closing
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39114 Closing
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39115 Closing
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39116 Closing
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39113 Closing
+[Sun Apr  5 12:24:56 2020] 127.0.0.1:39117 Accepted
+[Sun Apr  5 12:25:01 2020] 127.0.0.1:39118 Accepted
+[Sun Apr  5 12:25:01 2020] 127.0.0.1:39119 Accepted
+[Sun Apr  5 12:25:09 2020] 127.0.0.1:39117 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:25:09 2020] 127.0.0.1:39117 Closing
+[Sun Apr  5 12:25:13 2020] 127.0.0.1:39118 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:25:13 2020] 127.0.0.1:39118 Closing
+[Sun Apr  5 12:25:13 2020] 127.0.0.1:39119 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:25:13 2020] 127.0.0.1:39119 Closing
+[Sun Apr  5 12:25:47 2020] 127.0.0.1:39131 Accepted
+[Sun Apr  5 12:25:48 2020] 127.0.0.1:39132 Accepted
+[Sun Apr  5 12:25:50 2020] 127.0.0.1:39132 [200]: (null) /cargar.html
+[Sun Apr  5 12:25:50 2020] 127.0.0.1:39132 Closing
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39133 Accepted
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39134 Accepted
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39135 Accepted
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39133 [200]: (null) /estilo.css
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39134 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39135 [200]: (null) /imagenes/loading.gif
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39133 Closing
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39134 Closing
+[Sun Apr  5 12:25:51 2020] 127.0.0.1:39135 Closing
+[Sun Apr  5 12:25:53 2020] 127.0.0.1:39138 Accepted
+[Sun Apr  5 12:25:53 2020] 127.0.0.1:39139 Accepted
+[Sun Apr  5 12:25:53 2020] 127.0.0.1:39140 Accepted
+[Sun Apr  5 12:25:53 2020] 127.0.0.1:39141 Accepted
+[Sun Apr  5 12:25:56 2020] 127.0.0.1:39131 Invalid request (Unexpected EOF)
+[Sun Apr  5 12:25:56 2020] 127.0.0.1:39131 Closing
+[Sun Apr  5 12:26:03 2020] 127.0.0.1:39138 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:26:03 2020] 127.0.0.1:39139 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:26:03 2020] 127.0.0.1:39138 Closing
+[Sun Apr  5 12:26:03 2020] 127.0.0.1:39139 Closing
+[Sun Apr  5 12:26:04 2020] 127.0.0.1:39140 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:26:04 2020] 127.0.0.1:39140 Closing
+[Sun Apr  5 12:26:05 2020] 127.0.0.1:39141 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:26:05 2020] 127.0.0.1:39141 Closing
+[Sun Apr  5 12:26:20 2020] 127.0.0.1:39146 Accepted
+[Sun Apr  5 12:26:20 2020] 127.0.0.1:39146 [200]: (null) /resultado.html
+[Sun Apr  5 12:26:20 2020] 127.0.0.1:39146 Closing
+[Sun Apr  5 12:26:21 2020] 127.0.0.1:39147 Accepted
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39148 Accepted
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39149 Accepted
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39147 [200]: (null) /estilo.css
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39148 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39147 Closing
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39148 Closing
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39149 [200]: (null) /imagenes/capture-3254885221.jpg
+[Sun Apr  5 12:26:22 2020] 127.0.0.1:39149 Closing
+[Sun Apr  5 12:26:23 2020] 127.0.0.1:39150 Accepted
+[Sun Apr  5 12:26:23 2020] 127.0.0.1:39151 Accepted
+[Sun Apr  5 12:26:24 2020] 127.0.0.1:39152 Accepted
+[Sun Apr  5 12:26:24 2020] 127.0.0.1:39153 Accepted
+[Sun Apr  5 12:26:26 2020] 127.0.0.1:39156 Accepted
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39150 [200]: (null) /imagenes/visa.png
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39151 [200]: (null) /imagenes/american.png
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39152 [200]: (null) /imagenes/paypal.png
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39150 Closing
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39151 Closing
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39152 Closing
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39156 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39153 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39156 Closing
+[Sun Apr  5 12:26:30 2020] 127.0.0.1:39153 Closing
+[Sun Apr  5 12:26:31 2020] 127.0.0.1:39157 Accepted
+[Sun Apr  5 12:26:31 2020] 127.0.0.1:39158 Accepted
+[Sun Apr  5 12:26:34 2020] 127.0.0.1:39157 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:26:34 2020] 127.0.0.1:39158 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:26:34 2020] 127.0.0.1:39157 Closing
+[Sun Apr  5 12:26:34 2020] 127.0.0.1:39158 Closing
+[Sun Apr  5 12:27:35 2020] 127.0.0.1:39186 Accepted
+[Sun Apr  5 12:27:35 2020] 127.0.0.1:39186 [200]: (null) /
+[Sun Apr  5 12:27:35 2020] 127.0.0.1:39186 Closing
+[Sun Apr  5 12:27:36 2020] 127.0.0.1:39187 Accepted
+[Sun Apr  5 12:27:36 2020] 127.0.0.1:39188 Accepted
+[Sun Apr  5 12:27:37 2020] 127.0.0.1:39187 [200]: (null) /estilo.css
+[Sun Apr  5 12:27:37 2020] 127.0.0.1:39188 [200]: (null) /js/video.js
+[Sun Apr  5 12:27:37 2020] 127.0.0.1:39187 Closing
+[Sun Apr  5 12:27:37 2020] 127.0.0.1:39188 Closing
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39195 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39196 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39197 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39198 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39199 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39200 Accepted
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39195 [200]: (null) /imagenes/logotipo.png
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39196 [200]: (null) /imagenes/enviar.png
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39197 [200]: (null) /imagenes/loading.gif
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39195 Closing
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39196 Closing
+[Sun Apr  5 12:27:38 2020] 127.0.0.1:39197 Closing
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39198 [200]: (null) /imagenes/visa.png
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39199 [200]: (null) /imagenes/american.png
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39200 [200]: (null) /imagenes/bg.jpg
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39198 Closing
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39199 Closing
+[Sun Apr  5 12:27:39 2020] 127.0.0.1:39200 Closing
+[Sun Apr  5 12:27:45 2020] 127.0.0.1:39205 Accepted
+[Sun Apr  5 12:27:45 2020] 127.0.0.1:39206 Accepted
+[Sun Apr  5 12:27:45 2020] 127.0.0.1:39207 Accepted
+[Sun Apr  5 12:27:45 2020] 127.0.0.1:39208 Accepted
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39205 [200]: (null) /imagenes/paypal.png
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39206 [200]: (null) /imagenes/fac.png
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39207 [200]: (null) /imagenes/twitter.png
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39208 [200]: (null) /imagenes/instagram.png
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39205 Closing
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39206 Closing
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39207 Closing
+[Sun Apr  5 12:27:55 2020] 127.0.0.1:39208 Closing
+[Sun Apr  5 12:27:58 2020] 127.0.0.1:39217 Accepted
+[Sun Apr  5 12:27:58 2020] 127.0.0.1:39217 [200]: (null) /favicon.png
+[Sun Apr  5 12:27:58 2020] 127.0.0.1:39217 Closing
+[Sun Apr  5 12:28:37 2020] 127.0.0.1:39232 Accepted
+[Sun Apr  5 12:28:44 2020] 127.0.0.1:39234 Accepted
+[Sun Apr  5 12:28:44 2020] 127.0.0.1:39232 [200]: POST /php/video.php
+[Sun Apr  5 12:28:44 2020] 127.0.0.1:39232 Closing
+[Sun Apr  5 12:28:45 2020] 127.0.0.1:39234 [200]: POST /cargar.html
+[Sun Apr  5 12:28:45 2020] 127.0.0.1:39234 Closing
